@@ -23,7 +23,7 @@ This is a pathfinding visualizer tool built with React.js that allows you to vis
 ## Usage
 
 1. **Setup:**
-   - Clone the repository: `https://github.com/jajamabhijith/Path_Finder.git`
+   - Clone the repository: `https://github.com/revanthallenki/path_finder.git`
    - Install dependencies: `cd pathfinding-visualizer && npm install`
 
 2. **Running the App:**
